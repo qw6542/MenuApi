@@ -1,0 +1,67 @@
+# MenuApi
+[
+  {
+    "English Dish": [
+      {
+        "name": "cod",
+        "price": 4.4
+      }
+    ]
+  },
+  {
+    "Mixed Starter": [
+      {
+        "name": "cod",
+        "price": 4.4
+      }
+    ]
+  },
+  {
+    "Apitisers": [
+      {
+        "name": "cod",
+        "price": 4.4
+      }
+    ]
+  },
+  {
+    "Soups": [
+      {
+        "name": "cod",
+        "price": 4.4
+      }
+    ]
+  },
+  {
+    "Rice Dishes": [
+      {
+        "name": "cod",
+        "price": 4.4
+      }
+    ]
+  },
+  {
+    "Choe Mein Dishes": [
+      {
+        "name": "cod",
+        "price": 4.4
+      }
+    ]
+  },
+  {
+    "Chiken Dishes": [
+      {
+        "name": "cod",
+        "price": 4.4
+      }
+    ]
+  },
+  {
+    "Beef Dishes": [
+      {
+        "name": "cod",
+        "price": 4.4
+      }
+    ]
+  }
+]
